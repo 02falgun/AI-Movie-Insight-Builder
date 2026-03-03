@@ -1,0 +1,37 @@
+{
+  "name": "ai-movie-insight-builder",
+  "version": "0.1.0",
+  "description": "AI Movie Insight Builder internship assignment",
+  "scripts": {
+    "test": "jest",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^16.1.6",
+    "openai": "^6.25.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.3.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.27",
+    "eslint": "^9.39.3",
+    "eslint-config-next": "^16.1.6",
+    "jest": "^30.2.0",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  }
+}
